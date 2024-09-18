@@ -79,15 +79,10 @@ The dataset for June 2023 can be accessed via the [Citi Bike System Data](https:
 
 ## Files in the Repository
 
-- **/data**: Contains the June 2023 Citi Bike dataset (if applicable).
-- **/analysis**: Tableau or Power BI project files with visualizations.
+- **datasource link**: Contains the June 2023 Citi Bike dataset (if applicable) (https://citibikenyc.com/system-data)
+- **analysis**: Tableau file is exported as pdf format
 - **README.md**: This documentation file.
-- **/images**: Includes screenshots of key visualizations (optional).
-
----
-
-## Contributions
-Contributions are welcome! If you have suggestions for improving the analysis or extending the insights, feel free to open a pull request or issue.
+- **Documentation**: Documented in the word docs file
 
 ---
 
